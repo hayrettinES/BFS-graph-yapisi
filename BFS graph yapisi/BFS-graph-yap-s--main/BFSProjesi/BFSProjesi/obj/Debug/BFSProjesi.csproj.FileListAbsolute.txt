@@ -1,0 +1,14 @@
+C:\Users\efeak\source\repos\BFSProjesi\BFSProjesi\bin\Debug\BFSProjesi.exe.config
+C:\Users\efeak\source\repos\BFSProjesi\BFSProjesi\bin\Debug\BFSProjesi.exe
+C:\Users\efeak\source\repos\BFSProjesi\BFSProjesi\bin\Debug\BFSProjesi.pdb
+C:\Users\efeak\source\repos\BFSProjesi\BFSProjesi\obj\Debug\BFSProjesi.csproj.AssemblyReference.cache
+C:\Users\efeak\source\repos\BFSProjesi\BFSProjesi\obj\Debug\BFSProjesi.csproj.CoreCompileInputs.cache
+C:\Users\efeak\source\repos\BFSProjesi\BFSProjesi\obj\Debug\BFSProjesi.exe
+C:\Users\efeak\source\repos\BFSProjesi\BFSProjesi\obj\Debug\BFSProjesi.pdb
+C:\Users\efeak\OneDrive\Masaüstü\ders mers\ödevler\BFSGraph ödevi\BFSProjesi\BFSProjesi\bin\Debug\BFSProjesi.exe.config
+C:\Users\efeak\OneDrive\Masaüstü\ders mers\ödevler\BFSGraph ödevi\BFSProjesi\BFSProjesi\bin\Debug\BFSProjesi.exe
+C:\Users\efeak\OneDrive\Masaüstü\ders mers\ödevler\BFSGraph ödevi\BFSProjesi\BFSProjesi\bin\Debug\BFSProjesi.pdb
+C:\Users\efeak\OneDrive\Masaüstü\ders mers\ödevler\BFSGraph ödevi\BFSProjesi\BFSProjesi\obj\Debug\BFSProjesi.csproj.AssemblyReference.cache
+C:\Users\efeak\OneDrive\Masaüstü\ders mers\ödevler\BFSGraph ödevi\BFSProjesi\BFSProjesi\obj\Debug\BFSProjesi.csproj.CoreCompileInputs.cache
+C:\Users\efeak\OneDrive\Masaüstü\ders mers\ödevler\BFSGraph ödevi\BFSProjesi\BFSProjesi\obj\Debug\BFSProjesi.exe
+C:\Users\efeak\OneDrive\Masaüstü\ders mers\ödevler\BFSGraph ödevi\BFSProjesi\BFSProjesi\obj\Debug\BFSProjesi.pdb
